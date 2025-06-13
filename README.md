@@ -15,7 +15,7 @@
 ## 🎮 Hobbies
 - 🎮 Gaming, especially Minecraft (Mainly PVP)
 - 🏕️ Camping and enjoying nature  
-- 🎬 Watching sci-fi series, movies, and anime  
+- 🎬 Watching sci-fi series, movies, and anime (HxH is my favorite anime)
 - 📚 Exploring history
 ## 🛠️ Languages & Tools
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
