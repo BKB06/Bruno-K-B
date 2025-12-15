@@ -11,7 +11,7 @@
  
 ## 🚀 Currently Learning
 - ☕ Java: Object-Oriented Programming and backend basics
-- 
+   
 ## 🎮 Hobbies
 - 🎮 Gaming, especially Minecraft (Mainly PVP)
 - 🏕️ Camping and enjoying nature  
